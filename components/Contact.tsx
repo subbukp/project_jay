@@ -76,8 +76,7 @@ export default function Contact() {
                 label: "Hours",
                 content: (
                   <span>
-                    Mon–Fri: 10:00 AM – 7:00 PM<br />
-                    Saturday: 10:00 AM – 5:00 PM
+                    Open Daily: 4:00 PM – 8:00 PM
                   </span>
                 ),
               },
